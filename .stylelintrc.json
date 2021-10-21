@@ -1,0 +1,7 @@
+{
+	"syntax": "scss",
+	"rules": {
+		"indentation": "tab",
+		"declaration-empty-line-before": "always"
+	}
+}
